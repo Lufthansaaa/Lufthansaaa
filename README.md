@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lufthansaaa
 - 👀 I’m interested in Desktop Applications
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Discord
 - 📫 You can reach me via lufthansa_ on Discord
 
